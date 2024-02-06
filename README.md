@@ -4,4 +4,4 @@
 
 ## Podcast Episode Description GUI
 
-![](screenshots/gui2.PNG)
+![](screenshots/gui-2.PNG)
